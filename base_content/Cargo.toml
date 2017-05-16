@@ -1,0 +1,6 @@
+[package]
+name = "base_content"
+version = "0.1.0"
+authors = ["skyrim"]
+
+[dependencies]
